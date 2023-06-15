@@ -2,7 +2,7 @@
       <img width="500" alt="logo" src="Images\logo2.svg"/>
 </p>
 
-[![Id-Team](https://img.shields.io/badge/ID%20Team-C23-PC645-blue)](https://github.com/Recycash-bangkit-capstone)
+[![Id-Team](https://img.shields.io/badge/ID%20Team-C23-PC645-blue)]([https://github.com/Recycash-bangkit-capstone](https://github.com/alveen-art/Recycash-C23-PC645))
 ![Python](https://img.shields.io/badge/python-v3.9.0+-success.svg)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-v2.8.0+-success.svg)
 
