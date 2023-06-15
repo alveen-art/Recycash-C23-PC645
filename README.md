@@ -49,7 +49,9 @@ To address this concern and promote sustainable practices, we developed an appli
 
 Here is the preview from our app
 
-(Images/graph1.png)    (Images/graph2.png)    (Images/graph3.png)
+<p >
+      <img  alt="logo" src="Images/graph1.png"/>  <img  alt="logo" src="Images/graph2.png"/>   <img  alt="logo" src="Images/graph3.png"/>
+</p>
 
 ## Acknowledgment ##
 Thanks to [Bangkit Academy](https://grow.google/intl/id_id/bangkit/). Without its support, this work would not have become possible.
