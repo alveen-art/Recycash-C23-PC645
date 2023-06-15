@@ -1,5 +1,5 @@
 <p align="center">
-      <img width="500" alt="logo" src="Images\logo2.svg"/>
+      <img width="500" alt="logo" src="Images\logo2.png"/>
 </p>
 
 [![Id-Team](https://img.shields.io/badge/ID%20Team-C23--PC645-blue)](https://github.com/alveen-art/Recycash-C23-PC645)
