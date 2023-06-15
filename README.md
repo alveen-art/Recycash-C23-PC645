@@ -50,7 +50,7 @@ To address this concern and promote sustainable practices, we developed an appli
 Here is the preview from our app
 
 <p >
-      <img width="50" alt="logo" src="Images/graph1.png"/>  <img width="500" alt="logo" src="Images/graph2.png"/>   <img width="500" alt="logo" src="Images/graph3.png"/>
+      <img width="200" alt="logo" src="Images/graph1.png"/>  <img width="200" alt="logo" src="Images/graph2.png"/>   <img width="200" alt="logo" src="Images/graph3.png"/>
 </p>
 
 ## Acknowledgment ##
